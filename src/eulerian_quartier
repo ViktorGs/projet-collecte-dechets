@@ -1,0 +1,10 @@
+UNDIRECTED
+4 4
+A A
+B B
+C C
+D D
+A B 1.0
+B C 1.0
+C D 1.0
+D A 1.0

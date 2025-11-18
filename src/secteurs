@@ -1,0 +1,12 @@
+UNDIRECTED
+5 5
+S1 Secteur_Nord
+S2 Secteur_Sud
+S3 Secteur_Est
+S4 Secteur_Ouest
+S5 Centre_Ville
+S1 S5 1.0
+S2 S5 1.0
+S3 S5 1.0
+S4 S5 1.0
+S1 S3 1.0

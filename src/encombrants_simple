@@ -1,0 +1,13 @@
+UNDIRECTED
+5 6
+DEPOT Centre
+H1 Maison_1
+H2 Maison_2
+H3 Maison_3
+X Carrefour
+DEPOT X 2.0
+X H1 1.0
+X H2 1.5
+X H3 2.0
+H1 H2 2.0
+H2 H3 2.0

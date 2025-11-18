@@ -1,0 +1,11 @@
+DIRECTED
+4 5
+A Arret_1
+B Arret_2
+C Arret_3
+D Arret_4
+A B 5.0
+B C 4.0
+C D 3.0
+D B 2.0
+A D 10.0
