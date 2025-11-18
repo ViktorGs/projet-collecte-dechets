@@ -235,7 +235,7 @@ public class Main {
         }
     }
 
-    /* ====================== utilitaire ====================== */
+    /* ==================aaaa==== utilitaire ====================== */
 
     private static int lireIndex(int max) {
         while (true) {
